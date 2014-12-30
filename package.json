@@ -1,0 +1,16 @@
+{
+  "name": "sevenWondersScienceCalculator",
+  "version": "1.0.0",
+  "description": "Calculates the total science score for the game 7 Wonders given then total science cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "7 Wonders",
+    "sciences",
+    "calculator"
+  ],
+  "author": "Chris Montgomery",
+  "license": "MIT"
+}
